@@ -1,3 +1,11 @@
+# What's this for?
+
+Imagine you are consuming some JSON (via Ajax/XHR) from your favourite site and you have an endpoint but you **have to know if the content has changed** from the last time you retrieve it.
+
+You can do it manually, of course. If we can automate this kind of things , you can save time to do other things :-)
+
+> Don't expect rocket science here. It's just a little script
+
 # Requirements
 
 Be sure you have installed *NodeJs* v8.4.0 or above in your machine.
